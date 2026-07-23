@@ -2,7 +2,7 @@
 
 Hi, I am a software developer and I am 24 years old.
 
-## Major Activities
+## Major Activities ##
 
 - 🖥️ Programming
     - 🦀 Rust
