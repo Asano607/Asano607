@@ -2,7 +2,7 @@
 
 Hi, I am a software developer and I am 24 years old.
 
-## Major Activities ##
+#### Major Activities ####
 
 - 🖥️ Programming
     - 🦀 Rust
@@ -11,6 +11,7 @@ Hi, I am a software developer and I am 24 years old.
     - Android/iOS
     -AWS/Kubernets
     -Kotlin/Swift
+    -React/Next.js
 - 🎶 Music
     - 🎻 Classical Music
     - 🎹 Playing piano
