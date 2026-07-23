@@ -9,7 +9,7 @@ Hi, I am a software developer and I am 24 years old.
     - 🌐 Web dev.
     - 🪄 Graphics
     - Android/iOS
-    -AWS
+    -AWS/Kubernets
     -Kotlin/Swift
 - 🎶 Music
     - 🎻 Classical Music
@@ -26,7 +26,7 @@ Hi, I am a software developer and I am 24 years old.
 
 <div id="logos">
     &emsp;<a href="https://rust-lang.org"><!--
-        The Rust logo (`rust-logo-512x512.png`) is owned by Mozilla and distributed under the terms of the [Creative Commons Attribution license (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+        The Rust logo (`rust-logo-512x512. png`) is owned by Mozilla and distributed under the terms of the [Creative Commons Attribution license (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
     --><img src="./assets/images/rust-logo-512x512.png" alt="Rust" title="Rust" width="38px"></a>&emsp;<a href="https://svelte.dev"><!--
         A logo of the svelte framework by Rich Harris:
         [these people](https://github.com/sveltejs/svelte/graphs/contributors), MIT <http://opensource.org/licenses/mit-license.php>, via Wikimedia Commons
