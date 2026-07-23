@@ -1,6 +1,6 @@
 # Asano Mitsui
 
-Hi, I am a software developer and I am 24.
+Hi, I am a software developer and I am 24 years old.
 
 ## Major Activities
 
